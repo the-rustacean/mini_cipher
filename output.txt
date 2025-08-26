@@ -1,0 +1,29 @@
+ch:  T, in: 19, mo: 32, ou: 32, to:  g
+ch:  h, in: 33, mo: 46, ou: 46, to:  u
+ch:  i, in: 34, mo: 47, ou: 47, to:  v
+ch:  s, in: 44, mo: 57, ou: 57, to:  6
+ch:   , in: 62, mo: 75, ou:  9, to:  J
+ch:  i, in: 34, mo: 47, ou: 47, to:  v
+ch:  s, in: 44, mo: 57, ou: 57, to:  6
+ch:   , in: 62, mo: 75, ou:  9, to:  J
+ch:  m, in: 38, mo: 51, ou: 51, to:  z
+ch:  y, in: 50, mo: 63, ou: 63, to:  !
+ch:   , in: 62, mo: 75, ou:  9, to:  J
+ch:  s, in: 44, mo: 57, ou: 57, to:  6
+ch:  e, in: 30, mo: 43, ou: 43, to:  r
+ch:  c, in: 28, mo: 41, ou: 41, to:  p
+ch:  r, in: 43, mo: 56, ou: 56, to:  5
+ch:  e, in: 30, mo: 43, ou: 43, to:  r
+ch:  t, in: 45, mo: 58, ou: 58, to:  7
+ch:   , in: 62, mo: 75, ou:  9, to:  J
+ch:  m, in: 38, mo: 51, ou: 51, to:  z
+ch:  e, in: 30, mo: 43, ou: 43, to:  r
+ch:  s, in: 44, mo: 57, ou: 57, to:  6
+ch:  s, in: 44, mo: 57, ou: 57, to:  6
+ch:  a, in: 26, mo: 39, ou: 39, to:  n
+ch:  g, in: 32, mo: 45, ou: 45, to:  t
+ch:  e, in: 30, mo: 43, ou: 43, to:  r
+ch:  ., in: 65, mo: 78, ou: 12, to:  M
+
+Encrypt:
+guv6Jv6Jz!J6rp5r7Jzr66ntrM
